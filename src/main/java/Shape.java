@@ -1,5 +1,5 @@
-public abstract class Shape implements ShapePrinter{
+public abstract class Shape implements ShapePrinter {
 
     @Override
-    public abstract void printShapeName();
+    public abstract void printShape ();
 }
